@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.App-logo {
+  height: 200px;
+}
+
+.Subtitle {
+  font-style: italic;
+}
